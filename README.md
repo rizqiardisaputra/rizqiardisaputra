@@ -1,4 +1,4 @@
-#### Hello World! I'am Rizqisaputra ✋
+#### Hello I'am Rizqisaputra ✋
 
 ![rizqisaputra](img/github-header-banner.jpg)
 
